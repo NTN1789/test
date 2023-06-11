@@ -9,7 +9,7 @@ module.exports = {
   plugins: [{
     resolve: 'gatsby-source-datocms',
     options: {
-      "apiToken": "ccf0d6dc246217e25250855b902fa4"
+      "apiToken": "dca640ed588d2b47a070ce392425a4"
     }
   }, "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", "gatsby-plugin-styled-components"]
 };
