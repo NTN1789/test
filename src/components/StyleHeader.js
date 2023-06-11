@@ -1,8 +1,10 @@
 import styled from "styled-components";
 import Fundo from "../images/Banner.png"
 
-export const Container = styled.header`
 
+
+
+export const Container = styled.header`
 
 
 height:130vh;
